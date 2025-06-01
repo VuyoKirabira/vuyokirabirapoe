@@ -1,32 +1,23 @@
-Miniport by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Portfolio of Evidence – Tech Skills
 
+This is my Portfolio of Evidence (PoE) for the technological skills I've developed. I built this site using a free HTML template, which I customized to reflect my own content and design preferences.
 
-A super simple responsive portfolio template. It's only a single page because hey, sometimes
-you don't need a half dozen pages to make your point.
+## About the Project
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+The website includes sections for my skills, projects, and experience. It’s a simple, clean way to show what I’ve learned and what I can do.
 
-(* = Not included)
+## What I Learned
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+One of the biggest takeaways from this project was learning how to use Git. I used it for version control and to upload my website from my local machine to GitHub.
 
-AJ
-aj@lkn.io | @ajlkn
+Things I did with Git:
+- Set up a local Git repository
+- Made commits as I worked
+- Connected to a remote repo on GitHub
+- Pushed the project online
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+## Hosting
 
+The site is live thanks to GitHub Pages, which made it easy to publish.
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+🔗 Here is the link: https://vuyokirabira.github.io/vuyokirabirapoe/
