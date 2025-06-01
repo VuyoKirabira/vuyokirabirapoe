@@ -236,6 +236,7 @@ input, select, textarea {
 /* Dropdown container */
 .dropdown {
     position: relative;
+	display: inline-block;
 }
 
 /* Dropdown button styling */
